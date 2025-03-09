@@ -9,7 +9,7 @@
 	url = https://github.com/0Miha0/project_service
 [submodule "account_service"]
 	path = account_service
-	url = https://github.com/0Miha0/account_service
+	url = https://github.com/0Miha0/account_service.git
 [submodule "payment_service"]
 	path = payment_service
 	url = https://github.com/0Miha0/payment_service
