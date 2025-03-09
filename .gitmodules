@@ -1,30 +1,30 @@
 [submodule "user_service"]
 	path = user_service
-	url = https://github.com/0Miha0/user_service
+	url = https://github.com/0Miha0/user_service.git
 [submodule "post_service"]
 	path = post_service
-	url = https://github.com/0Miha0/post_service
+	url = https://github.com/0Miha0/post_service.git
 [submodule "project_service"]
 	path = project_service
-	url = https://github.com/0Miha0/project_service
+	url = https://github.com/0Miha0/project_service.git
 [submodule "account_service"]
 	path = account_service
-	url = https://github.com/0Miha0/account_service
+	url = https://github.com/0Miha0/account_service.git
 [submodule "payment_service"]
 	path = payment_service
-	url = https://github.com/0Miha0/payment_service
+	url = https://github.com/0Miha0/payment_service.git
 [submodule "notification_service"]
 	path = notification_service
-	url = https://github.com/0Miha0/notification_service
+	url = https://github.com/0Miha0/notification_service.git
 [submodule "analytics_service"]
 	path = analytics_service
-	url = https://github.com/0Miha0/analytics_service
+	url = https://github.com/0Miha0/analytics_service.git
 [submodule "achievement_service"]
 	path = achievement_service
-	url = https://github.com/0Miha0/achievement_service
+	url = https://github.com/0Miha0/achievement_service.git
 [submodule "infra"]
 	path = infra
-	url = https://github.com/0Miha0/infra
+	url = https://github.com/0Miha0/infra.git
 [submodule "url_shortener_service"]
 	path = url_shortener_service
-	url = https://github.com/0Miha0/url_shortener_service
+	url = https://github.com/0Miha0/url_shortener_service.git
